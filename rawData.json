@@ -16,7 +16,7 @@
             "b": "",
             "c": 3,
             "d": 99,
-            "e": 18900,
+            "e": 19180,
             "f": 0,
             "g": 0
         }
@@ -2184,16 +2184,16 @@
                                     "mapValue": {
                                         "fields": {
                                             "0": {
-                                                "integerValue": "1514"
+                                                "integerValue": "1524"
                                             },
                                             "1": {
-                                                "doubleValue": 20688.472151789167
+                                                "doubleValue": 20825.120913487146
                                             },
                                             "2": {
-                                                "doubleValue": 228.4321715697984
+                                                "doubleValue": 12.544904124070456
                                             },
                                             "3": {
-                                                "integerValue": "24723"
+                                                "integerValue": "24733"
                                             },
                                             "length": {
                                                 "integerValue": "4"
@@ -3126,7 +3126,7 @@
                         "stringValue": "{\"15\":0,\"16\":0,\"19\":0,\"25\":0,\"30\":0,\"32\":0,\"40\":0,\"90\":0,\"91\":0,\"94\":0,\"100\":0,\"105\":0,\"106\":0,\"107\":0,\"108\":0,\"115\":0,\"120\":0,\"121\":0,\"122\":0,\"124\":0,\"130\":0,\"270\":0,\"271\":0,\"273\":0,\"285\":0,\"286\":0,\"288\":0,\"300\":0,\"301\":0,\"302\":0,\"303\":0,\"310\":0,\"315\":0,\"450\":0,\"451\":0,\"453\":0,\"460\":0,\"465\":0,\"466\":0,\"467\":0,\"469\":0,\"475\":0,\"480\":0,\"481\":0,\"482\":0,\"490\":0,\"623\":0,\"626\":0,\"634\":0,\"635\":0,\"639\":0}"
                     },
                     "AtkCD_7": {
-                        "stringValue": "{\"15\":0,\"16\":0,\"19\":0,\"25\":0,\"30\":0,\"32\":0,\"40\":0,\"90\":0,\"91\":0,\"94\":0,\"100\":0,\"105\":0,\"106\":0,\"107\":0,\"108\":0,\"115\":0,\"120\":0,\"121\":0,\"122\":0,\"124\":0,\"130\":0,\"270\":4,\"271\":0,\"273\":0,\"285\":10,\"286\":0,\"288\":9,\"300\":0,\"301\":0,\"302\":0,\"303\":0,\"310\":0,\"315\":0,\"450\":0,\"451\":0,\"453\":0,\"460\":0,\"465\":0,\"466\":0,\"467\":0,\"469\":0,\"475\":0,\"480\":0,\"481\":0,\"482\":0,\"490\":0,\"623\":0,\"626\":0,\"634\":1472,\"635\":0,\"639\":0}"
+                        "stringValue": "{\"15\":0,\"16\":0,\"19\":0,\"25\":0,\"30\":0,\"32\":0,\"40\":0,\"90\":0,\"91\":0,\"94\":0,\"100\":0,\"105\":0,\"106\":0,\"107\":0,\"108\":0,\"115\":0,\"120\":0,\"121\":0,\"122\":0,\"124\":0,\"130\":0,\"270\":11,\"271\":0,\"273\":0,\"285\":7,\"286\":0,\"288\":0,\"300\":0,\"301\":0,\"302\":0,\"303\":0,\"310\":0,\"315\":0,\"450\":0,\"451\":0,\"453\":0,\"460\":0,\"465\":0,\"466\":0,\"467\":0,\"469\":0,\"475\":0,\"480\":0,\"481\":0,\"482\":0,\"490\":0,\"623\":0,\"626\":0,\"634\":990,\"635\":0,\"639\":0}"
                     },
                     "AtkCD_8": {
                         "stringValue": "{\"15\":0,\"16\":0,\"19\":0,\"25\":0,\"30\":0,\"32\":0,\"40\":0,\"90\":0,\"91\":0,\"94\":0,\"100\":0,\"105\":0,\"106\":0,\"107\":0,\"108\":0,\"115\":0,\"120\":0,\"121\":0,\"122\":0,\"124\":0,\"130\":0,\"270\":0,\"271\":0,\"273\":0,\"285\":0,\"286\":0,\"288\":0,\"300\":0,\"301\":0,\"302\":0,\"303\":0,\"310\":0,\"315\":0,\"450\":0,\"451\":0,\"453\":0,\"460\":24,\"465\":0,\"466\":0,\"467\":0,\"469\":0,\"475\":0,\"480\":0,\"481\":0,\"482\":0,\"490\":0,\"623\":0,\"626\":0,\"634\":1793,\"635\":0,\"639\":0}"
@@ -3591,7 +3591,7 @@
                                                 "integerValue": "273"
                                             },
                                             "1": {
-                                                "integerValue": "113"
+                                                "integerValue": "217"
                                             },
                                             "2": {
                                                 "integerValue": "300"
@@ -3609,7 +3609,7 @@
                                                 "integerValue": "288"
                                             },
                                             "1": {
-                                                "doubleValue": 199.8403361344538
+                                                "doubleValue": 141.8403361344538
                                             },
                                             "2": {
                                                 "doubleValue": 220.8403361344538
@@ -4158,7 +4158,7 @@
                         }
                     },
                     "Cards0": {
-                        "stringValue": "{\"stache\":118,\"CritterCard7\":146,\"Gold\":105,\"poopBig\":15,\"EasterEvent1\":38,\"sandgiant\":1528,\"EasterEvent2\":29,\"babaHour\":25,\"snowball\":208,\"snakeB\":205,\"SummerEvent1\":65,\"skele\":85,\"SummerEvent2\":49,\"sheepB\":66,\"poopSmall\":189,\"snakeG\":129,\"loveEvent\":24,\"crabcake\":297,\"acorn\":49,\"slimeR\":141,\"SoulCard1\":12,\"BirchTree\":98,\"steak\":112,\"Plat\":129,\"ghost\":19,\"shovelR\":105,\"SoulCard2\":13,\"SoulCard3\":3,\"PalmTree\":36,\"goblinG\":73,\"babaMummy\":18,\"Bandit_Bob\":30,\"shovelY\":63,\"beanG\":92,\"Dementia\":14,\"thermostat\":127,\"pincermin\":124,\"snakeY\":115,\"ForgeA\":142,\"Crystal0\":30,\"JungleTree\":98,\"Crystal1\":17,\"ForgeB\":87,\"sheep\":136,\"Crystal2\":5,\"Boss2A\":45,\"Bug1\":193,\"Boss2B\":16,\"Bug2\":102,\"Bug3\":142,\"xmasEvent2\":7,\"babayaga\":12,\"Bug4\":47,\"Bug5\":9,\"Bug6\":41,\"branch\":179,\"plank\":43,\"frogG\":77,\"poopD\":10,\"potato\":125,\"Iron\":153,\"mamoth\":209,\"loveEvent2\":27,\"mushG\":149,\"ToiletTree\":91,\"skele2\":16,\"penguin\":154,\"SaharanFoal\":1,\"carrotO\":52,\"wolfA\":262,\"wolfB\":15,\"snailZ\":144,\"eye\":52,\"xmasEvent\":4,\"Blank\":0,\"Void\":6,\"mushR\":150,\"coconut\":122,\"StumpTree\":4,\"flake\":146,\"mimicA\":131,\"OakTree\":111,\"Fish1\":639,\"Copper\":119,\"moonman\":237,\"Fish2\":334,\"mushW\":112,\"CritterCard1\":52,\"crabcakeB\":48,\"Boss3A\":7,\"Fish3\":236,\"ForestTree\":94,\"CritterCard2\":61,\"CritterCard3\":20,\"bloque\":226,\"sandcastle\":183,\"frogBIG\":145,\"Fish4\":88,\"glass\":158,\"CritterCard4\":20,\"Lustre\":0,\"ratB\":116,\"CritterCard5\":17,\"CritterCard6\":91,\"slimeG\":67,\"jarSand\":117,\"speaker\":159}"
+                        "stringValue": "{\"stache\":118,\"CritterCard7\":146,\"Gold\":105,\"poopBig\":15,\"EasterEvent1\":38,\"sandgiant\":1528,\"EasterEvent2\":29,\"babaHour\":25,\"snowball\":208,\"snakeB\":205,\"SummerEvent1\":65,\"skele\":85,\"SummerEvent2\":49,\"sheepB\":66,\"poopSmall\":189,\"snakeG\":129,\"loveEvent\":24,\"crabcake\":297,\"acorn\":49,\"slimeR\":141,\"SoulCard1\":12,\"BirchTree\":98,\"steak\":112,\"Plat\":129,\"ghost\":19,\"shovelR\":105,\"SoulCard2\":13,\"SoulCard3\":3,\"PalmTree\":36,\"goblinG\":73,\"babaMummy\":18,\"Bandit_Bob\":30,\"shovelY\":63,\"beanG\":92,\"Dementia\":14,\"thermostat\":127,\"pincermin\":124,\"snakeY\":115,\"ForgeA\":142,\"Crystal0\":30,\"JungleTree\":98,\"Crystal1\":17,\"ForgeB\":87,\"sheep\":136,\"Crystal2\":5,\"Boss2A\":45,\"Bug1\":193,\"Boss2B\":16,\"Bug2\":102,\"Bug3\":142,\"xmasEvent2\":7,\"babayaga\":12,\"Bug4\":47,\"Bug5\":9,\"Bug6\":41,\"branch\":179,\"plank\":43,\"frogG\":77,\"poopD\":10,\"potato\":125,\"Iron\":153,\"mamoth\":209,\"loveEvent2\":27,\"mushG\":150,\"ToiletTree\":91,\"skele2\":16,\"penguin\":154,\"SaharanFoal\":1,\"carrotO\":52,\"wolfA\":262,\"wolfB\":15,\"snailZ\":144,\"eye\":52,\"xmasEvent\":4,\"Blank\":0,\"Void\":6,\"mushR\":150,\"coconut\":122,\"StumpTree\":4,\"flake\":146,\"mimicA\":131,\"OakTree\":111,\"Fish1\":639,\"Copper\":119,\"moonman\":237,\"Fish2\":334,\"mushW\":112,\"CritterCard1\":52,\"crabcakeB\":48,\"Boss3A\":7,\"Fish3\":236,\"ForestTree\":94,\"CritterCard2\":61,\"CritterCard3\":20,\"bloque\":226,\"sandcastle\":183,\"frogBIG\":145,\"Fish4\":88,\"glass\":158,\"CritterCard4\":20,\"Lustre\":0,\"ratB\":116,\"CritterCard5\":17,\"CritterCard6\":91,\"slimeG\":67,\"jarSand\":117,\"speaker\":159}"
                     },
                     "Cards1": {
                         "stringValue": "[\"Mega-Rare_Drop\",\"Rare_Drop\",\"Starlight\",\"AlienTreetutorial\",\"Copper\",\"Grasslands1\",\"OakTree\",\"EquipmentShirts16\",\"Grasslands2\",\"Quest30\",\"PremiumGem\",\"ResetCompletedS\",\"Quest31\",\"SilverPen\",\"FoodEvent3\",\"FoodEvent2\",\"FoodEvent1\",\"FoodEvent4\",\"CardsY0\",\"StoneT1e\",\"FoodHealth1\",\"Timecandy1\",\"FoodPotMana1\",\"Quest3\",\"Quest4\",\"Grasslands3\",\"Leaf1\",\"FoodPotOr1\",\"CardsC4\",\"EquipmentHats6\",\"EquipmentToolsHatchet0\",\"BirchTree\",\"Jungle1\",\"CardsA2\",\"FoodHealth2\",\"Quest7\",\"Jungle2\",\"EquipmentHats42\",\"EquipmentStatues3\",\"EquipmentStatues7\",\"FoodPotOr2\",\"FoodHealth3\",\"OilBarrel2\",\"CardsA4\",\"Timecandy2\",\"TixCol\",\"CardsA3\",\"CardsY1\",\"StoneHelm1b\",\"SmithingRecipes1\",\"Iron\",\"FoodPotGr1\",\"CardsC1\",\"CardsA0\",\"CardsC5\",\"FoodPotMana2\",\"EquipmentStatues1\",\"EquipmentPants10\",\"CardsC2\",\"Quest16\",\"EquipmentShirts21\",\"Jungle3\",\"Grasslands4\",\"JungleTree\",\"StoneA1\",\"rtt0\",\"CardsA5\",\"CardsA6\",\"InvBag100\",\"Forest1\",\"Forest2\",\"Quest12\",\"Key1\",\"FoodG4\",\"StoneZ1\",\"CardsA1\",\"CardsY2\",\"StoneW1\",\"StoneT1\",\"EquipmentHats5\",\"Quest21\",\"CardsA7\",\"EquipmentStatues5\",\"Quest10\",\"Quest11\",\"StoneA2\",\"ResetFrag\",\"InvStorageF\",\"StoneHelm1\",\"StoneW2\",\"CardsA14\",\"CardsA8\",\"EquipmentShirts19\",\"Crystal1\",\"Fish1\",\"Forest3\",\"Quest17\",\"TalentBook1\",\"FoodPotRe2\",\"CardsC6\",\"ForestTree\",\"CardsA9\",\"StoneT2\",\"StampA8\",\"CopperBar\",\"IronBar\",\"Peanut\",\"CardsZ2\",\"CraftMat2\",\"Bug1\",\"DesertA1\",\"DesertA1b\",\"StampA7\",\"CraftMat1\",\"CraftMat5\",\"CraftMat7\",\"CraftMat6\",\"ObolSilverDamage\",\"CardsB1\",\"PureWater\",\"DesertA2\",\"Gold\",\"EquipmentPants1\",\"CardsD10\",\"CardsB8\",\"CardsZ1\",\"CardsA12\",\"CardsA13\",\"CardsB2\",\"CardsD5\",\"CardsC3\",\"StampC3\",\"Fish2\",\"EquipmentBows4\",\"DesertA3\",\"CardsB3\",\"EquipmentHats9\",\"FoodG3\",\"ObolBronze1\",\"GoldBar\",\"Meatloaf\",\"ObolBronze2\",\"TreeInterior1\",\"StampA10\",\"EquipmentTools1\",\"StampC1\",\"EquipmentStatues12\",\"InvBag101\",\"Quest19\",\"FoodHealth6\",\"FoodG2\",\"EquipmentStatues6\",\"EquipmentStatues10\",\"CraftMat9\",\"EquipmentStatues9\",\"Sewers1\",\"Sewers2\",\"PeanutS\",\"DesertB1\",\"CardsC11\",\"SmithingRecipes2\",\"DesertA3b\",\"Bug2\",\"CardsC10\",\"CardsB4\",\"CardsC7\",\"CardsB9\",\"CardsA10\",\"CardsC8\",\"CardsC9\",\"Fish3\",\"Fish4\",\"ToiletTree\",\"EquipmentHats25\",\"FoodPotYe2\",\"FoodPotRe1\",\"EquipmentStatues2\",\"StampB23\",\"DesertB2\",\"CardsB5\",\"ObolSilver2\",\"EquipmentStatues11\",\"DesertB3\",\"EquipmentStatues4\",\"TreeInterior1b\",\"Sewers1b\",\"GoldricP3\",\"Bug3\",\"CardsC12\",\"CardsB6\",\"DesertB4\",\"StampB11\",\"ExpBalloon1\",\"Plat\",\"ObolBronze0\",\"StampB3\",\"PalmTree\",\"Leaf2\",\"EquipmentStatues8\",\"ObolSilverMoney\",\"CardsD7\",\"EquipmentHats30\",\"Cutter\",\"StampA11\",\"TreeInterior2\",\"Timecandy3\",\"CardsB7\",\"StoneA2b\",\"DesertC1\",\"BobJoePickle\",\"Quest22\",\"Quest14\",\"CardsA11\",\"Quest23\",\"GoldricP1\",\"InvBag7\",\"StumpTree\",\"CardsD6\",\"ObolBronzePop\",\"FishingRod2\",\"CardsD11\",\"GoldricP2\",\"StampB13\",\"ObolGold3\",\"StampB6\",\"InvStorage1\",\"EquipmentStatues14\",\"DesertC2\",\"Quest18\",\"EquipmentStatues13\",\"DesertC3\",\"CardsB10\",\"CardsA16\",\"DesertC4\",\"CardsB11\",\"EquipmentHats3\",\"InvStorage4\",\"StampA9\",\"InvStorage5\",\"Quest26\",\"EquipmentStatues15\",\"Bug4\",\"StampB16\",\"Quest39\",\"Quest40\",\"StampA4\",\"FoodEvent8\",\"FoodEvent6\",\"FoodEvent5\",\"FoodEvent7\",\"CardsY3\",\"EquipmentHats51\",\"CardsY4\",\"CardsY5\",\"ObolSilverLuck\",\"DesertC2b\",\"TestObj1\",\"CardsD9\",\"JobApplication\",\"Sewers3\",\"CardsA15\",\"ObolSilver0\",\"CardsB13\",\"FoodG1\",\"StampB9\",\"StoneW6\",\"MidnightCookie\",\"Quest24\",\"StampA16\",\"ObolSilver1\",\"ExpBalloon2\",\"Key2\",\"Quest28\",\"CardsZ0\",\"ObolSilver3\",\"CardsD2\",\"FoodPotGr2\",\"CardsZ3\",\"EquipmentPendant14\",\"PlatBar\",\"CraftMat8\",\"ResetBox\",\"ClassSwap\",\"StoneA1b\",\"StoneW3\",\"OilBarrel1\",\"MaxCapBag3\",\"FoodChoppin1\",\"FoodMining1\",\"FoodHealth7\",\"EquipmentHats4Choppin\",\"EquipmentPants15\",\"EquipmentHats44\",\"EquipmentPendant10\",\"CraftMat3\",\"SmithingHammerChisel\",\"NPCtoken11\",\"NPCtoken9\",\"Quest9\",\"NPCtoken7\",\"Quest37\",\"FoodHealth5\",\"FoodPotYe1\",\"EquipmentPendant12\",\"InvStorage12\",\"InvStorage8\",\"InvBag105\",\"StampA12\",\"EquipmentHats28\",\"EquipmentWands5\",\"EquipmentShirts18\",\"EquipmentPants17\",\"EquipmentShoes20\",\"EquipmentRings3\",\"EquipmentTools2\",\"CatchingNet2\",\"EquipmentToolsHatchet4\",\"ObolBronze3\",\"Quest15\",\"StampB15\",\"InvStorage15\",\"InvStorage10\",\"InvStorage9\",\"InvBag106\",\"FoodHealth4\",\"Quest6\",\"Quest1\",\"Quest5\",\"NPCtoken12\",\"EquipmentRings12\",\"StampB24\",\"TalentPoint2\",\"EquipmentShirts1\",\"StonePremLUK\",\"StampB20\",\"StampB22\",\"FoodPotRe3\",\"CardsC16\",\"CardsD16\",\"NPCtoken13\",\"InvStorage3\",\"NPCtoken5\",\"NPCtoken15\",\"NPCtoken10\",\"InvStorage7\",\"Timecandy7\",\"EquipmentHats55\",\"EquipmentPendant18\",\"Quest41\",\"EquipmentShirts12\",\"StoneA3\",\"EfauntDrop1\",\"InvStorage42\",\"Timecandy5\",\"NPCtoken4\",\"StampC14\",\"Hgg\",\"NPCtoken14\",\"NPCtoken1\",\"NPCtoken2\",\"NPCtoken3\",\"BadgeG1\",\"PeanutG\",\"EquipmentRings13\",\"EquipmentPunching3\",\"EquipmentShirts17\",\"EquipmentTools10\",\"EquipmentToolsHatchet1\",\"EquipmentShirts13\",\"EquipmentPants4\",\"EquipmentHats18\",\"StoneHelm6\",\"EquipmentPunching1\",\"Quest27\",\"InvBag6\",\"StampB17\",\"EquipmentHats29\",\"EquipmentToolsHatchet2b\",\"Trophy5\",\"Quest42\",\"Quest43\",\"EquipmentHats57\",\"Quest44\",\"StoneTe\",\"CardsY6\",\"CardsY7\",\"StoneAe\",\"StoneWe\",\"EquipmentHats56\",\"CardsY9\",\"BabaYagaETC\",\"StoneA3b\",\"CardPack1\",\"CardPack2\",\"CardsB12\",\"CardsY8\",\"EquipmentHats39\",\"Quest32\",\"StampB4\",\"StampB19\",\"Quest34\",\"Quest33\",\"Dementia\",\"StampA14\",\"Timecandy4\",\"CardsZ5\",\"BadgeG3\",\"DementiaBar\",\"StampA28\",\"EquipmentPants19\",\"BadgeG2\",\"Trophy6\",\"Quest36\",\"InvStorage13\",\"Quest29\",\"CardsZ4\",\"EquipmentHats2\",\"StampB21\",\"EquipmentShoes9\",\"EquipmentHats17\",\"Crystal2\",\"TrapBoxSet1\",\"WorshipSkull1\",\"StoneT3\",\"InvStorage16\",\"InvStorage17\",\"InvStorage18\",\"InvStorage19\",\"InvStorage20\",\"InvStorage21\",\"SnowA1\",\"CardsE0\",\"FoodPotOr3\",\"CardsZ7\",\"CardsE5\",\"CardsE13\",\"CardsZ6\",\"CardsE12\",\"CardsF7\",\"CardsZ8\",\"CardsE9\",\"CardsF6\",\"CardsF9\",\"EquipmentStatues16\",\"EquipmentStatues18\",\"SnowA2\",\"SnowA2a\",\"CardsE1\",\"SnowA3\",\"FoodPotGr3\",\"EquipmentStatues17\",\"CardsE2\",\"SnowB1\",\"CardsE3\",\"EquipmentStatues19\",\"FoodPotMana3\",\"FoodHealth10\",\"FoodG5\",\"StoneZ2\",\"SnowB2\",\"SaharanFoal\",\"Soul1\",\"Critter1\",\"Key3\",\"EquipmentHats7\",\"InvBag1\",\"EquipmentHats14\",\"EquipmentHats12\",\"InvBag2\",\"OilBarrel4\",\"EquipmentPendant9\",\"Critter1A\",\"StampB5\",\"TalentBook2\",\"TalentBook5\",\"TalentBook4\",\"Leaf3\",\"CardsD19\",\"Critter2\",\"CardsD20\",\"StampB36\",\"SnowB3\",\"SnowB5\",\"SnowB4\",\"SnowC3\",\"Refinery1\",\"StampB30\",\"InvBag3\",\"EquipmentPendant11\",\"TalentBook3\",\"StampB7\",\"CardsB14\",\"CardsD17\",\"Refinery2\",\"Critter2A\",\"EquipmentHats1\",\"EquipmentPants3\",\"EquipmentWands1\",\"Soul2\",\"EquipmentSmithingTabs3\",\"CardsD1\",\"SnowC2\",\"SnowC1\",\"SnowC4\",\"Refinery3\",\"StampC19\",\"Void\",\"Quest25\",\"Critter3\",\"CardsD21\",\"Critter3A\",\"Critter4\",\"Critter4A\",\"CardsF4\",\"StampA23\",\"EquipmentHats15\",\"FoodPotYe3\",\"Critter5\",\"CardsF5\",\"Critter5A\",\"StampA20\",\"CardsE4\",\"InvBag110\",\"SnowB2a\",\"CardsD18\",\"EfauntDrop2\",\"Critter6\",\"Critter6A\",\"StampB31\",\"StampB10\",\"CardsE6\",\"CardsE7\",\"Soul3\",\"Critter7\",\"TrapBoxSet2\",\"Critter7A\",\"ObolAmarokA\",\"CardsD8\",\"StonePremAGI\",\"StampB12\",\"CardsD3\",\"FoodHealth9\",\"CardsE8\",\"Bug5\",\"FoodG6\",\"CardsF3\",\"MaxCapBag10\",\"EquipmentShoes5\",\"EquipmentBows7\",\"EquipmentShirts26\",\"EquipmentHats19\",\"EquipmentPants20\",\"EquipmentPendant17\",\"VoidBar\",\"Refinery4\",\"OilBarrel5\",\"EquipmentHats8\",\"EquipmentHats22\",\"EquipmentHats52\",\"EquipmentHats20\",\"TestObj13\",\"EquipmentHats16\",\"EquipmentPunching2\",\"EquipmentPunching4\",\"EquipmentRings6\",\"EquipmentPendant16\",\"TrapBoxSet3\",\"WorshipSkull2\",\"EquipmentToolsHatchet2\",\"TestObj3\",\"TestObj7\",\"EquipmentSword1\",\"EquipmentShoes16\",\"EquipmentPants18\",\"EquipmentTools7\",\"EquipmentShoes18\",\"EquipmentSword2\",\"EquipmentBows3\",\"EquipmentShoes19\",\"CatchingNet4\",\"EquipmentWands6\",\"EquipmentBows1\",\"EquipmentBows6\",\"EquipmentBows5\",\"EquipmentTools6\",\"EquipmentWands2\",\"EquipmentShirts2\",\"EquipmentShirts25\",\"EquipmentShirts11\",\"EquipmentShirts20\",\"EquipmentShirts10\",\"EquipmentPants2\",\"EquipmentShoes1\",\"EquipmentShoes15\",\"EquipmentShoes3\",\"EquipmentShoes4\",\"EquipmentShoes17\",\"EquipmentRings7\",\"EquipmentRings2\",\"EquipmentToolsHatchet3\",\"EquipmentTools5\",\"FishingRod4\",\"EquipmentTools3\",\"ResetCompleted\",\"ExpBalloon3\",\"NPCtoken6\",\"StampC9\",\"CardsE15\",\"Quest49\",\"Quest45\",\"StoneT1eb\",\"CardsY13\",\"StoneWeb\",\"Quest50\",\"StoneAeB\",\"Line2\",\"NPCtoken21\",\"NPCtoken16\",\"NPCtoken20\",\"InvBag8\",\"CardsY11\",\"Quest20\",\"InvBag5\",\"Bullet\",\"TalentPoint3\",\"GemP9\",\"ObolSilverMining\",\"ObolGoldEXP\",\"ObolGoldCatching\",\"ObolSilverEXP\",\"ObolSilverCard\",\"ObolSilverDef\",\"ObolGold0\",\"Weight6\",\"StampC18\",\"NPCtoken22\",\"NPCtoken26\",\"Weight3\",\"ButterBar\",\"Pearl1\",\"Pearl2\",\"Pearl3\",\"Pearl4\",\"CardsY10\",\"NPCtoken18\",\"Weight12\",\"CardsY12\",\"Quest47\",\"Trophy13\",\"ObolPlatinum2\",\"ObolGoldChoppin\",\"ObolGoldMoney\",\"ObolGoldDamage\",\"ObolPlatinum0\",\"NPCtoken23\",\"NPCtoken24\",\"Weight8\",\"StampC2\",\"StampB18\",\"Quest46\",\"Line7\",\"NPCtoken28\",\"NPCtoken29\",\"NPCtoken30\",\"BadgeD1\",\"MaxCapBagT1\",\"CardsE10\",\"EquipmentHats63\",\"ObolBronzeCons\",\"Critter8\",\"Critter8A\",\"ObolBronzeKill\",\"ObolBronzeTrapping\",\"ObolBronzeEXP\",\"Bug6\",\"CardsE11\",\"SnowC4a\",\"CardsF8\",\"Line11\",\"Weight1\",\"ObolBronzeWorship\",\"Weight2\",\"StampB27\"]"
@@ -4740,7 +4740,7 @@
                                                 "doubleValue": 137523.364124126
                                             },
                                             "3": {
-                                                "doubleValue": 5261753.946199433
+                                                "doubleValue": 5272691.769079194
                                             },
                                             "length": {
                                                 "integerValue": "4"
@@ -5973,7 +5973,7 @@
                         "arrayValue": {
                             "values": [
                                 {
-                                    "integerValue": "265198"
+                                    "integerValue": "265058"
                                 },
                                 {
                                     "integerValue": "65854"
@@ -6513,7 +6513,7 @@
                                     "integerValue": "58"
                                 },
                                 {
-                                    "integerValue": "7664768"
+                                    "integerValue": "7664698"
                                 },
                                 {
                                     "integerValue": "401162"
@@ -6984,7 +6984,7 @@
                         }
                     },
                     "CloudsaveTimer": {
-                        "integerValue": "2557322"
+                        "integerValue": "2557804"
                     },
                     "CogM": {
                         "stringValue": "{\"4\":{\"d\":8,\"a\":24},\"5\":{\"l\":1,\"d\":24,\"a\":156,\"c\":56,\"h\":\"everything\",\"e\":1.25},\"6\":{\"h\":\"everything\",\"d\":24,\"l\":1,\"e\":1.25,\"a\":156,\"c\":56},\"7\":{\"d\":11,\"a\":33},\"14\":{\"d\":8,\"c\":5},\"15\":{\"d\":8,\"a\":37},\"16\":{\"d\":8,\"c\":3,\"a\":19},\"17\":{\"h\":\"everything\",\"d\":24,\"l\":1,\"e\":1.25,\"a\":156,\"c\":56},\"18\":{\"h\":\"everything\",\"d\":24,\"l\":1,\"e\":1.25,\"a\":156,\"c\":56},\"19\":{\"d\":11,\"a\":12},\"20\":{\"d\":15,\"a\":38},\"21\":{\"a\":325,\"b\":2073,\"c\":91},\"26\":{\"d\":8,\"a\":27},\"27\":{\"d\":8,\"a\":9},\"28\":{\"d\":9,\"a\":27},\"29\":{\"d\":9,\"c\":9,\"a\":5},\"30\":{\"d\":11,\"a\":21,\"c\":11},\"31\":{\"d\":12,\"a\":39,\"c\":10},\"32\":{\"d\":15,\"a\":53},\"33\":{\"d\":17},\"37\":{\"d\":8,\"a\":18},\"38\":{\"d\":8,\"a\":20,\"c\":11},\"39\":{\"d\":8,\"a\":11},\"40\":{\"d\":9,\"c\":8},\"41\":{\"d\":9,\"a\":43},\"42\":{\"d\":11,\"a\":31},\"43\":{\"d\":12,\"a\":52},\"44\":{\"d\":14,\"c\":5},\"45\":{\"d\":18,\"c\":9},\"46\":{\"a\":357,\"b\":2186,\"c\":99},\"49\":{\"d\":8,\"a\":4},\"50\":{\"d\":8,\"a\":7},\"51\":{\"d\":8,\"a\":13,\"c\":5},\"52\":{\"d\":9,\"a\":16},\"53\":{\"d\":9,\"c\":12},\"54\":{\"d\":11,\"c\":8,\"a\":7},\"55\":{\"d\":12,\"c\":9,\"a\":7},\"56\":{\"d\":14,\"h\":\"down\",\"c\":8,\"g\":8},\"57\":{\"d\":18,\"a\":4},\"58\":{\"d\":30,\"h\":\"up\",\"e\":10},\"62\":{\"d\":8,\"a\":21},\"63\":{\"d\":8,\"a\":22},\"64\":{\"d\":9,\"a\":13},\"65\":{\"d\":10,\"a\":9},\"66\":{\"h\":\"adjacent\",\"d\":10,\"e\":6,\"a\":5},\"67\":{\"d\":12,\"a\":31},\"68\":{\"d\":13,\"c\":5,\"a\":22},\"69\":{\"d\":22},\"74\":{\"d\":8,\"h\":\"adjacent\",\"a\":21,\"e\":5},\"75\":{\"d\":8,\"a\":31},\"76\":{\"d\":9,\"c\":4,\"a\":19},\"77\":{\"d\":10,\"a\":9},\"78\":{\"d\":10,\"a\":14},\"79\":{\"d\":13,\"a\":22},\"80\":{\"d\":13,\"a\":9},\"81\":{\"d\":24,\"a\":8},\"88\":{\"d\":9,\"a\":84},\"89\":{\"d\":10,\"a\":22},\"90\":{\"d\":10,\"a\":13,\"c\":6},\"91\":{\"d\":13,\"a\":16},\"96\":{\"a\":325,\"b\":2065,\"c\":91},\"97\":{\"a\":310,\"b\":2009,\"c\":88},\"98\":{\"a\":373,\"b\":2251,\"c\":103},\"99\":{\"a\":357,\"b\":2243,\"c\":99},\"100\":{\"a\":373,\"b\":2299,\"c\":103},\"101\":{\"a\":357,\"b\":2364,\"c\":99},\"102\":{\"a\":535,\"b\":9829,\"c\":139},\"109\":{\"d\":12,\"c\":20,\"a\":58},\"110\":{\"d\":9,\"c\":12},\"112\":{\"d\":15,\"c\":8},\"117\":{\"d\":10,\"c\":14,\"a\":12},\"124\":{\"h\":\"around\",\"e\":40,\"g\":40},\"125\":{\"h\":\"around\",\"e\":40,\"g\":40},\"126\":{\"h\":\"diagonal\",\"a\":13,\"e\":10},\"127\":{\"h\":\"around\",\"e\":40,\"g\":40},\"128\":{\"h\":\"around\",\"e\":40,\"g\":40},\"129\":{\"h\":\"left\",\"d\":4,\"e\":12,\"a\":21},\"130\":{\"h\":\"right\",\"e\":9,\"c\":6,\"a\":34},\"131\":{\"h\":\"adjacent\",\"e\":10,\"a\":17},\"132\":{\"h\":\"adjacent\",\"a\":11,\"c\":3,\"e\":13},\"133\":{\"h\":\"adjacent\",\"e\":8,\"a\":14,\"c\":7},\"134\":{\"h\":\"diagonal\",\"e\":13,\"a\":14},\"135\":{\"h\":\"up\",\"g\":10,\"a\":35},\"136\":{\"h\":\"up\",\"c\":7,\"a\":4,\"g\":15}}"
@@ -10866,7 +10866,7 @@
                         "arrayValue": {
                             "values": [
                                 {
-                                    "doubleValue": 10606630.626309125
+                                    "doubleValue": 10607163.30066188
                                 },
                                 {
                                     "doubleValue": 11.9397373345098
@@ -10881,7 +10881,7 @@
                                     "doubleValue": 888.250172751588
                                 },
                                 {
-                                    "doubleValue": 588193.7290075435
+                                    "doubleValue": 589033.4524945854
                                 },
                                 {
                                     "doubleValue": 543654.681521435
@@ -10890,7 +10890,7 @@
                                     "integerValue": "6566"
                                 },
                                 {
-                                    "doubleValue": 21354.93207755744
+                                    "doubleValue": 21672.75874422403
                                 },
                                 {
                                     "doubleValue": 1753.36236405046
@@ -11913,7 +11913,7 @@
                         "stringValue": "[3,8,92,87,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]"
                     },
                     "FlagU": {
-                        "stringValue": "[0,0,0,155455.6182099006,-11,-11,-11,-11,155455.6182099006,0,0,0,0.0991666666666667,0.128333333333333,-11,-11,-11,-11,-11,-11,-11,-11,0,0,0,0.0991666666666667,-11,-11,-11,-11,-11,-11,-11,-11,0,0,0,-11,-11,-11,-11,-11,-11,-11,-11,-11,-11,0,0,-11,-11,-11,-11,-11,-11,-11,-11,-11,-11,0,0,0,-11,-11,-11,-11,-11,-11,-11,-11,0,0,0,0,-11,-11,-11,-11,-11,-11,-11,-11,0,0,0,0,0,155455.3726543446,-11,-11,-11,-11,155455.3726543446,0,0,0]"
+                        "stringValue": "[0,0,0,155601.62487656708,-11,-11,-11,-11,155601.62487656708,0,0,0,0.0991666666666667,0.128333333333333,-11,-11,-11,-11,-11,-11,-11,-11,0,0,0,0.0991666666666667,-11,-11,-11,-11,-11,-11,-11,-11,0,0,0,-11,-11,-11,-11,-11,-11,-11,-11,-11,-11,0,0,-11,-11,-11,-11,-11,-11,-11,-11,-11,-11,0,0,0,-11,-11,-11,-11,-11,-11,-11,-11,0,0,0,0,-11,-11,-11,-11,-11,-11,-11,-11,0,0,0,0,0,155601.37932101107,-11,-11,-11,-11,155601.37932101107,0,0,0]"
                     },
                     "FoodCD_0": {
                         "arrayValue": {
@@ -12606,7 +12606,7 @@
                         }
                     },
                     "Guild": {
-                        "stringValue": "[[8,8,5,9,6,0,8,3,0,0,8,6,9,5,0,4,0,0],[0,1,2644],[1,1,1],[2,0,0],[8,0,0],[13,0,0],[3,0,1],[4,1,55],[5,0,190],[23,0,0]]"
+                        "stringValue": "[[8,8,5,9,6,0,8,3,0,0,8,6,9,5,0,4,0,0],[0,1,2845],[1,1,1],[2,0,0],[8,0,0],[13,0,0],[3,0,1],[4,1,55],[5,0,190],[23,0,0]]"
                     },
                     "HintStatus": {
                         "stringValue": "[[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],[1,-1,1,1,1,1,1,1,-1,0,-1,-1],[0,0,0,-1,1,0,0,1,0,0,0,0,1,-1]]"
@@ -12660,7 +12660,7 @@
                         "stringValue": "{\"6\":{\"Defence\":0,\"WIS\":0,\"STR\":0,\"LUK\":0,\"Weapon_Power\":0,\"AGI\":0,\"Reach\":0,\"Upgrade_Slots_Left\":0,\"Power\":0,\"Speed\":0},\"9\":{\"Defence\":0,\"WIS\":0,\"STR\":0,\"LUK\":0,\"Weapon_Power\":0,\"AGI\":0,\"Reach\":0,\"Upgrade_Slots_Left\":0,\"Power\":0,\"Speed\":0},\"57\":{\"Defence\":6,\"WIS\":0,\"STR\":2,\"LUK\":2,\"Weapon_Power\":0,\"UQ1txt\":0,\"AGI\":2,\"Reach\":0,\"Upgrade_Slots_Left\":-3,\"Power\":0,\"Speed\":0},\"60\":{\"Defence\":0,\"STR\":0,\"WIS\":0,\"Weapon_Power\":0,\"LUK\":0,\"Reach\":0,\"AGI\":0,\"UQ1txt\":0,\"Upgrade_Slots_Left\":-1,\"UQ1val\":1,\"Power\":0,\"Speed\":0},\"61\":{\"Defence\":10,\"WIS\":4,\"STR\":4,\"LUK\":2,\"Weapon_Power\":0,\"AGI\":0,\"Reach\":0,\"Upgrade_Slots_Left\":-5,\"Power\":0,\"Speed\":0},\"62\":{\"Defence\":10,\"WIS\":0,\"STR\":2,\"LUK\":4,\"Weapon_Power\":0,\"UQ1txt\":0,\"AGI\":4,\"Reach\":0,\"Upgrade_Slots_Left\":-5,\"Power\":0,\"Speed\":0}}"
                     },
                     "IMm_7": {
-                        "stringValue": "{\"62\":{\"Defence\":0,\"WIS\":1,\"STR\":0,\"LUK\":2,\"Weapon_Power\":0,\"UQ1txt\":0,\"AGI\":0,\"Reach\":0,\"Upgrade_Slots_Left\":-3,\"UQ1val\":1,\"Power\":0,\"Speed\":0}}"
+                        "stringValue": "{\"3\":{\"Speed\":0,\"Reach\":0,\"Weapon_Power\":0,\"STR\":0,\"AGI\":0,\"WIS\":0,\"LUK\":0,\"Defence\":0},\"4\":{\"Speed\":0,\"Reach\":0,\"Weapon_Power\":0,\"STR\":0,\"AGI\":0,\"WIS\":0,\"LUK\":0,\"Defence\":0},\"62\":{\"Defence\":0,\"WIS\":1,\"STR\":0,\"LUK\":2,\"Weapon_Power\":0,\"UQ1txt\":0,\"AGI\":0,\"Reach\":0,\"Upgrade_Slots_Left\":-3,\"UQ1val\":1,\"Power\":0,\"Speed\":0}}"
                     },
                     "IMm_8": {
                         "stringValue": "{\"47\":{\"Defence\":0,\"WIS\":0,\"STR\":0,\"LUK\":0,\"Weapon_Power\":0,\"AGI\":0,\"Reach\":0,\"Upgrade_Slots_Left\":0,\"Power\":0,\"Speed\":0},\"56\":{\"Defence\":0,\"WIS\":0,\"STR\":0,\"LUK\":0,\"Weapon_Power\":0,\"UQ1txt\":0,\"AGI\":0,\"Reach\":0,\"Upgrade_Slots_Left\":0,\"Power\":0,\"Speed\":0},\"57\":{\"Defence\":0,\"WIS\":0,\"STR\":0,\"LUK\":0,\"Weapon_Power\":0,\"AGI\":0,\"Reach\":0,\"Upgrade_Slots_Left\":0,\"Power\":0,\"Speed\":0},\"58\":{\"Defence\":0,\"WIS\":0,\"STR\":0,\"LUK\":0,\"Weapon_Power\":0,\"AGI\":0,\"Reach\":0,\"Upgrade_Slots_Left\":0,\"Power\":0,\"Speed\":0},\"59\":{\"Defence\":0,\"WIS\":0,\"STR\":0,\"LUK\":0,\"Weapon_Power\":0,\"AGI\":0,\"Reach\":0,\"Upgrade_Slots_Left\":0,\"Power\":0,\"Speed\":0},\"60\":{\"Defence\":0,\"STR\":0,\"WIS\":0,\"Weapon_Power\":0,\"LUK\":0,\"Reach\":0,\"Speed\":0,\"AGI\":0},\"61\":{\"Defence\":0,\"WIS\":0,\"STR\":0,\"LUK\":0,\"Weapon_Power\":0,\"AGI\":0,\"Speed\":0,\"Reach\":0},\"62\":{\"Defence\":0,\"WIS\":0,\"STR\":0,\"LUK\":0,\"Weapon_Power\":0,\"AGI\":0,\"Speed\":0,\"Reach\":0},\"63\":{\"Defence\":0,\"WIS\":0,\"STR\":0,\"LUK\":0,\"Weapon_Power\":0,\"AGI\":0,\"Speed\":0,\"Reach\":0}}"
@@ -14430,10 +14430,10 @@
                                     "stringValue": "Quest24"
                                 },
                                 {
-                                    "stringValue": "Blank"
+                                    "stringValue": "EquipmentHats5"
                                 },
                                 {
-                                    "stringValue": "Blank"
+                                    "stringValue": "EquipmentPants10"
                                 },
                                 {
                                     "stringValue": "Blank"
@@ -16635,19 +16635,19 @@
                         "arrayValue": {
                             "values": [
                                 {
-                                    "integerValue": "413"
+                                    "integerValue": "882"
                                 },
                                 {
-                                    "integerValue": "6"
+                                    "integerValue": "38"
                                 },
                                 {
-                                    "integerValue": "3"
+                                    "integerValue": "9"
                                 },
                                 {
-                                    "integerValue": "0"
+                                    "integerValue": "1"
                                 },
                                 {
-                                    "integerValue": "0"
+                                    "integerValue": "1"
                                 },
                                 {
                                     "integerValue": "0"
@@ -17145,7 +17145,7 @@
                         "stringValue": "[[0,0],[-17976.4100000005],[-6472.98000000072],[150,10],[150],[150],[0],[0,81],[4907],[0],[0],[0,60],[60],[-61346.03,-13846.03],[-100870.72,-99520.72],[35000],[-2874.05,-74.0500000000602],[-55.76],[-187.29000000001],[-2181.31],[8],[5],[0],[0],[-24.6800000000002,1675.32],[0],[-51199.02],[-29586.0500000007,-25416.0500000007],[-21985.93],[0],[0],[-46618],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0,0,0],[-125057.619999932],[-67875.33,-67475.33],[-43510.61],[15],[30],[30],[-89739.13],[-21995.9399999912],[-10570],[-93468.7599999765,-95968.7599999765],[30],[-8310],[-12317.04],[-562175.71],[-32870],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[1,0],[-7690],[4000],[7500],[10000,100000],[12500],[17500],[22000],[30000],[35000],[45000],[65000],[90000],[120000],[1000],[1000],[250000],[0],[1000],[1000]]"
                     },
                     "KLA_7": {
-                        "stringValue": "[[0,0],[-227109.45000002286],[-47.1799999999999],[150,10],[150],[150],[0],[25,81],[-35960.42],[0],[40],[50,60],[60],[-21083,26417],[-2873.38,-1523.38],[14488],[-3656.75,-856.75],[-14.5],[-28204],[-2.74999999999984],[8],[5],[0],[0],[-1146.1,553.9],[0],[-10301.05],[-6458,-2288.00000000001],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0,0,0],[-624.6],[-662,-262],[-143631.350000001],[15],[30],[30],[-4491],[-8526],[-20402.4499999996],[-17478,-19978],[30],[-39.1000000000474],[-250384.6],[-637],[1],[0],[-2.1],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[1,0],[-18375],[4000],[-50820.1],[9987.40000000001,99987.4],[12500],[17500],[22000],[30000],[35000],[45000],[65000],[90000],[120000],[1000],[1000],[250000],[0],[1000],[1000]]"
+                        "stringValue": "[[0,0],[-228486.30000002403],[-47.1799999999999],[150,10],[150],[150],[0],[25,81],[-35960.42],[0],[40],[50,60],[60],[-21083,26417],[-2873.38,-1523.38],[14488],[-3656.75,-856.75],[-14.5],[-28204],[-2.74999999999984],[8],[5],[0],[0],[-1146.1,553.9],[0],[-10301.05],[-6458,-2288.00000000001],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0,0,0],[-624.6],[-662,-262],[-143631.350000001],[15],[30],[30],[-4491],[-8526],[-20402.4499999996],[-17478,-19978],[30],[-39.1000000000474],[-250384.6],[-637],[1],[0],[-2.1],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[1,0],[-18375],[4000],[-50820.1],[9987.40000000001,99987.4],[12500],[17500],[22000],[30000],[35000],[45000],[65000],[90000],[120000],[1000],[1000],[250000],[0],[1000],[1000]]"
                     },
                     "KLA_8": {
                         "stringValue": "[[0,0],[-335447.8],[-13503.65],[150,10],[150],[150],[0],[25,81],[-96926.35],[0],[40],[50,60],[60],[2500,50000],[-80798.74,-79448.74],[-40689.48],[-1837.4,962.59999999999],[-41.14],[5000],[-120191.42],[8],[5],[0],[0],[-964.22,735.78],[0],[-7861],[-4787.82,-617.82000000002],[-355141.4],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0,0,0],[-56498.55],[-71083.38,-70683.38],[-143655.97],[15],[30],[30],[-11116.95],[-18766.72],[-30501.28],[-1149,-3649],[30],[-249.199999999998],[-2233],[-96629],[1],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[0],[1,0],[2000],[4000],[7500],[10000,100000],[12500],[17500],[22000],[30000],[35000],[45000],[65000],[90000],[120000],[1000],[1000],[250000],[0],[1000],[1000]]"
@@ -17931,7 +17931,7 @@
                         "integerValue": "18127613"
                     },
                     "Money_7": {
-                        "integerValue": "53576899"
+                        "integerValue": "53577134"
                     },
                     "Money_8": {
                         "integerValue": "35773803"
@@ -20559,7 +20559,7 @@
                                     "integerValue": "0"
                                 },
                                 {
-                                    "doubleValue": 10903027.554088125
+                                    "doubleValue": 10903027.909088382
                                 },
                                 {
                                     "integerValue": "1"
@@ -20751,7 +20751,7 @@
                         "doubleValue": 1625610.517974
                     },
                     "PTimeAway_7": {
-                        "doubleValue": 1625621.391287
+                        "doubleValue": 1625621.8736420001
                     },
                     "PTimeAway_8": {
                         "doubleValue": 1625610.7342390001
@@ -21237,37 +21237,37 @@
                         "stringValue": "[29.84168836774117,0,0,0,0,0,0,0,0,0]"
                     },
                     "PlayerStuff_7": {
-                        "stringValue": "[31.46596564467402,0,0,0,0,0,0,0,0,0]"
+                        "stringValue": "[31.653713721686785,0,0,0,0,0,0,0,0,0]"
                     },
                     "PlayerStuff_8": {
                         "stringValue": "[40.692894486950394,0,0,0,0,0,0,0,0,0]"
                     },
                     "PldTraps_0": {
-                        "stringValue": "[[15,250,313.5390000343323,\"Critter4\",20,1,3600,507,6.2049900990099,2],[66,372,313.5390000343323,\"Critter8\",20,1,3600,2028,0.372299405940594,2],[66,545,313.5390000343323,\"Critter8\",20,1,3600,2028,0.372299405940594,2],[16,598,313.5390000343323,\"Critter1\",40,0,3600,40,7.75623762376238,2],[-1,0,3187892.8610276356,0,0,0,1,0,1],[-1,0,3187892.8610276356,0,0,0,1,0,1],[-1,0,3187892.8610276356,0,0,0,1,0,1],[-1,0,3187892.8610276356,0,0,0,1,0,1]]"
+                        "stringValue": "[[15,250,795.8940002918243,\"Critter4\",20,1,3600,507,6.2049900990099,2],[66,372,795.8940002918243,\"Critter8\",20,1,3600,2028,0.372299405940594,2],[66,545,795.8940002918243,\"Critter8\",20,1,3600,2028,0.372299405940594,2],[16,598,795.8940002918243,\"Critter1\",40,0,3600,40,7.75623762376238,2],[-1,0,3188375.216027893,0,0,0,1,0,1],[-1,0,3188375.216027893,0,0,0,1,0,1],[-1,0,3188375.216027893,0,0,0,1,0,1],[-1,0,3188375.216027893,0,0,0,1,0,1]]"
                     },
                     "PldTraps_1": {
-                        "stringValue": "[[104,482,313.5390000343323,\"Critter6\",20,1,3600,1261,3.22816573505452,2],[16,572,313.5390000343323,\"Critter1\",40,1,3600,20,53.8027622509086,2],[66,376,313.5390000343323,\"Critter8\",20,1,3600,2018,0.645633147010904,2],[66,503,313.5390000343323,\"Critter8\",20,1,3600,2018,0.645633147010904,2],[-1,0,3194581.1602446456,0,0,0,1,0,1],[-1,0,3194581.1602446456,0,0,0,1,0,1],[-1,0,3194581.1602446456,0,0,0,1,0,1],[-1,0,3194581.1602446456,0,0,0,1,0,1]]"
+                        "stringValue": "[[104,482,795.8940002918243,\"Critter6\",20,1,3600,1261,3.22816573505452,2],[16,572,795.8940002918243,\"Critter1\",40,1,3600,20,53.8027622509086,2],[66,376,795.8940002918243,\"Critter8\",20,1,3600,2018,0.645633147010904,2],[66,503,795.8940002918243,\"Critter8\",20,1,3600,2018,0.645633147010904,2],[-1,0,3195063.515244903,0,0,0,1,0,1],[-1,0,3195063.515244903,0,0,0,1,0,1],[-1,0,3195063.515244903,0,0,0,1,0,1],[-1,0,3195063.515244903,0,0,0,1,0,1]]"
                     },
                     "PldTraps_2": {
-                        "stringValue": "[[104,147,313.5390000343323,\"Critter6\",20,0,3600,2542,0.465374257425743,2],[16,216,313.5390000343323,\"Critter1\",40,1,3600,20,31.0249504950495,2],[66,481,313.5390000343323,\"Critter8\",20,1,3600,2033,0.372299405940594,2],[66,588,313.5390000343323,\"Critter8\",20,1,3600,2033,0.372299405940594,2],[-1,0,3151230.5529310056,0,0,0,1,0,1],[-1,0,3151230.5529310056,0,0,0,1,0,1],[-1,0,3151230.5529310056,0,0,0,1,0,1],[-1,0,3151230.5529310056,0,0,0,1,0,1]]"
+                        "stringValue": "[[104,147,795.8940002918243,\"Critter6\",20,0,3600,2542,0.465374257425743,2],[16,216,795.8940002918243,\"Critter1\",40,1,3600,20,31.0249504950495,2],[66,481,795.8940002918243,\"Critter8\",20,1,3600,2033,0.372299405940594,2],[66,588,795.8940002918243,\"Critter8\",20,1,3600,2033,0.372299405940594,2],[-1,0,3151712.907931263,0,0,0,1,0,1],[-1,0,3151712.907931263,0,0,0,1,0,1],[-1,0,3151712.907931263,0,0,0,1,0,1],[-1,0,3151712.907931263,0,0,0,1,0,1]]"
                     },
                     "PldTraps_3": {
-                        "stringValue": "[[18,434,313.5390000343323,\"Critter5\",20,0,3600,1619,4.27701459686851,2],[16,63,313.5390000343323,\"Critter1\",40,0,3600,40,35.6417883072376,2],[66,295,313.5390000343323,\"Critter8\",20,1,3600,2024,1.7108058387474,2],[66,189,313.5390000343323,\"Critter8\",20,1,3600,2024,1.7108058387474,2],[-1,0,3186610.5419961656,0,0,0,1,0,1],[-1,0,3186610.5419961656,0,0,0,1,0,1],[-1,0,3186610.5419961656,0,0,0,1,0,1],[-1,0,3186610.5419961656,0,0,0,1,0,1]]"
+                        "stringValue": "[[18,434,795.8940002918243,\"Critter5\",20,0,3600,1619,4.27701459686851,2],[16,63,795.8940002918243,\"Critter1\",40,0,3600,40,35.6417883072376,2],[66,295,795.8940002918243,\"Critter8\",20,1,3600,2024,1.7108058387474,2],[66,189,795.8940002918243,\"Critter8\",20,1,3600,2024,1.7108058387474,2],[-1,0,3187092.896996423,0,0,0,1,0,1],[-1,0,3187092.896996423,0,0,0,1,0,1],[-1,0,3187092.896996423,0,0,0,1,0,1],[-1,0,3187092.896996423,0,0,0,1,0,1]]"
                     },
                     "PldTraps_4": {
-                        "stringValue": "[[66,345,313.5390000343323,\"Critter8\",20,1,3600,1355,0.372299405940594,2],[66,545,313.5390000343323,\"Critter8\",20,1,3600,1355,0.372299405940594,2],[104,191,313.5390000343323,\"Critter6\",20,1,3600,847,1.86149702970297,2],[16,287,313.5390000343323,\"Critter1\",42,1,3600,13,31.0249504950495,2],[-1,0,3172931.3743109154,0,0,0,1,0,1],[-1,0,3172931.3743109154,0,0,0,1,0,1],[-1,0,3172931.3743109154,0,0,0,1,0,1],[-1,0,3172931.3743109154,0,0,0,1,0,1]]"
+                        "stringValue": "[[66,345,795.8940002918243,\"Critter8\",20,1,3600,1355,0.372299405940594,2],[66,545,795.8940002918243,\"Critter8\",20,1,3600,1355,0.372299405940594,2],[104,191,795.8940002918243,\"Critter6\",20,1,3600,847,1.86149702970297,2],[16,287,795.8940002918243,\"Critter1\",42,1,3600,13,31.0249504950495,2],[-1,0,3173413.729311173,0,0,0,1,0,1],[-1,0,3173413.729311173,0,0,0,1,0,1],[-1,0,3173413.729311173,0,0,0,1,0,1],[-1,0,3173413.729311173,0,0,0,1,0,1]]"
                     },
                     "PldTraps_5": {
-                        "stringValue": "[[66,245,313.5390000343323,\"Critter8\",20,0,3600,6987,0.0930748514851485,2],[66,374,313.5390000343323,\"Critter8\",20,0,3600,6987,0.0930748514851485,2],[66,481,313.5390000343323,\"Critter8\",20,0,3600,6987,0.0930748514851485,2],[66,610,313.5390000343323,\"Critter8\",20,0,3600,6987,0.0930748514851485,2],[-1,0,3186120.5826827856,0,0,0,1,0,1],[-1,0,3186120.5826827856,0,0,0,1,0,1],[-1,0,3186120.5826827856,0,0,0,1,0,1],[-1,0,3186120.5826827856,0,0,0,1,0,1]]"
+                        "stringValue": "[[66,245,795.8940002918243,\"Critter8\",20,0,3600,6987,0.0930748514851485,2],[66,374,795.8940002918243,\"Critter8\",20,0,3600,6987,0.0930748514851485,2],[66,481,795.8940002918243,\"Critter8\",20,0,3600,6987,0.0930748514851485,2],[66,610,795.8940002918243,\"Critter8\",20,0,3600,6987,0.0930748514851485,2],[-1,0,3186602.937683043,0,0,0,1,0,1],[-1,0,3186602.937683043,0,0,0,1,0,1],[-1,0,3186602.937683043,0,0,0,1,0,1],[-1,0,3186602.937683043,0,0,0,1,0,1]]"
                     },
                     "PldTraps_6": {
-                        "stringValue": "[[18,587,313.5390000343323,\"Critter5\",20,1,3600,690,3.60931485148515,2],[66,441,313.5390000343323,\"Critter8\",20,1,3600,1727,0.360931485148515,2],[66,567,313.5390000343323,\"Critter8\",20,1,3600,1727,0.360931485148515,2],[-1,0,3177880.6868860153,0,0,0,1,0,1],[-1,0,3177880.6868860153,0,0,0,1,0,1],[-1,0,3177880.6868860153,0,0,0,1,0,1],[-1,0,3177880.6868860153,0,0,0,1,0,1],[-1,0,3177880.6868860153,0,0,0,1,0,1]]"
+                        "stringValue": "[[18,587,795.8940002918243,\"Critter5\",20,1,3600,690,3.60931485148515,2],[66,441,795.8940002918243,\"Critter8\",20,1,3600,1727,0.360931485148515,2],[66,567,795.8940002918243,\"Critter8\",20,1,3600,1727,0.360931485148515,2],[-1,0,3178363.041886273,0,0,0,1,0,1],[-1,0,3178363.041886273,0,0,0,1,0,1],[-1,0,3178363.041886273,0,0,0,1,0,1],[-1,0,3178363.041886273,0,0,0,1,0,1],[-1,0,3178363.041886273,0,0,0,1,0,1]]"
                     },
                     "PldTraps_7": {
-                        "stringValue": "[[16,115,315.5390000343323,\"Critter1\",39,1,3600,17,63.2029636511439,2],[66,482,315.5390000343323,\"Critter8\",20,0,3600,3422,0.189608890953432,2],[66,595,315.5390000343323,\"Critter8\",20,1,3600,1711,0.758435563813727,2],[15,149,315.5390000343323,\"Critter4\",20,1,3600,518,12.7401249564511,2],[-1,0,3068341.7465745956,0,0,0,1,0,1],[-1,0,3068341.7465745956,0,0,0,1,0,1],[-1,0,3068341.7465745956,0,0,0,1,0,1],[-1,0,3068341.7465745956,0,0,0,1,0,1]]"
+                        "stringValue": "[[16,115,797.8940002918243,\"Critter1\",39,1,3600,17,63.2029636511439,2],[66,482,797.8940002918243,\"Critter8\",20,0,3600,3422,0.189608890953432,2],[66,595,797.8940002918243,\"Critter8\",20,1,3600,1711,0.758435563813727,2],[15,149,797.8940002918243,\"Critter4\",20,1,3600,518,12.7401249564511,2],[-1,0,3068824.101574853,0,0,0,1,0,1],[-1,0,3068824.101574853,0,0,0,1,0,1],[-1,0,3068824.101574853,0,0,0,1,0,1],[-1,0,3068824.101574853,0,0,0,1,0,1]]"
                     },
                     "PldTraps_8": {
-                        "stringValue": "[[15,496,313.5390000343323,\"Critter4\",20,1,3600,410,7.28910091743119,2],[66,457,313.5390000343323,\"Critter8\",20,1,3600,1642,0.437346055045872,2],[66,589,313.5390000343323,\"Critter8\",20,1,3600,1642,0.437346055045872,2],[-1,0,3028599.8684119456,0,0,0,1,0,1],[-1,0,3028599.8684119456,0,0,0,1,0,1],[-1,0,3028599.8684119456,0,0,0,1,0,1],[-1,0,3028599.8684119456,0,0,0,1,0,1],[-1,0,3028599.8684119456,0,0,0,1,0,1]]"
+                        "stringValue": "[[15,496,795.8940002918243,\"Critter4\",20,1,3600,410,7.28910091743119,2],[66,457,795.8940002918243,\"Critter8\",20,1,3600,1642,0.437346055045872,2],[66,589,795.8940002918243,\"Critter8\",20,1,3600,1642,0.437346055045872,2],[-1,0,3029082.223412203,0,0,0,1,0,1],[-1,0,3029082.223412203,0,0,0,1,0,1],[-1,0,3029082.223412203,0,0,0,1,0,1],[-1,0,3029082.223412203,0,0,0,1,0,1],[-1,0,3029082.223412203,0,0,0,1,0,1]]"
                     },
                     "PostOfficeInfo0": {
                         "arrayValue": {
@@ -22362,7 +22362,7 @@
                         "stringValue": "{\"Typhoon1\":[\"0\"],\"Scripticus10\":[1],\"XxX_Cattleprod_XxX1\":[\"0\",\"30\"],\"Scripticus11\":[1,1],\"XxX_Cattleprod_XxX2\":[\"0\",\"0\",\"72\"],\"Scripticus12\":[0,0,0],\"Scripticus13\":[\"0\",\"0\"],\"XxX_Cattleprod_XxX3\":[0,0,0],\"Whattso1\":[0],\"Whattso2\":[\"0\"],\"Whattso3\":[\"0\"],\"Whattso4\":[\"0\"],\"Djonnut1\":[0,0,0],\"Djonnut2\":[\"0\",\"0\"],\"Djonnut3\":[0,0,0],\"Postboy_Pablob1\":[0],\"Cactolyte1\":[\"0\",\"0\",\"0\"],\"Cactolyte2\":[\"0\",\"0\",\"0\"],\"Cactolyte3\":[0],\"Snake_Jar1\":[0],\"Cactolyte4\":[\"0\"],\"Snake_Jar2\":[0],\"Snake_Jar3\":[\"0\",\"0\"],\"Snake_Jar4\":[\"0\"],\"Bandit_Bob1\":[0],\"Bandit_Bob2\":[0],\"Bandit_Bob3\":[102],\"Bandit_Bob4\":[0],\"Lord_of_the_Hunt10\":[0,0],\"Lord_of_the_Hunt11\":[0,0,0],\"Dazey1\":[0,0],\"Mr_Pigibank1\":[\"0\"],\"Cowbo_Jones1\":[99999],\"Dazey2\":[0,0,0],\"Cowbo_Jones2\":[23],\"Cowbo_Jones3\":[9],\"Cowbo_Jones4\":[0],\"Cowbo_Jones5\":[1,1],\"Goldric1\":[15],\"Cowbo_Jones6\":[27],\"Goldric2\":[15,90],\"Cowbo_Jones7\":[1],\"Goldric3\":[0,0,0],\"Cowbo_Jones8\":[0],\"Goldric4\":[0],\"Cowbo_Jones9\":[0,0],\"Goldric5\":[1],\"Goldric6\":[\"0\",\"6\"],\"Mutton1\":[0,0,0],\"Mutton2\":[0],\"Mutton3\":[0,0],\"Mutton4\":[0,0,0],\"Secretkeeper1\":[0],\"Loveulyte1\":[0],\"Loveulyte2\":[\"0\"],\"Promotheus1\":[1],\"Stiltzcho1\":[15,80],\"Wellington1\":[\"0\",\"0\",\"0\"],\"Promotheus2\":[1],\"Stiltzcho2\":[0],\"Wellington2\":[0,0,0],\"Promotheus3\":[1],\"Stiltzcho3\":[0,0],\"Stiltzcho4\":[\"0\"],\"Promotheus4\":[1],\"Builder_Bird1\":[0],\"Wellington3\":[\"0\"],\"Stiltzcho5\":[\"0\"],\"Constructor_Crow1\":[0],\"Wellington4\":[\"0\"],\"Stiltzcho6\":[\"0\"],\"Picnic_Stowaway10\":[0],\"Picnic_Stowaway11\":[0],\"Tiki_Chief1\":[0,0],\"Tiki_Chief2\":[\"0\",\"0\",\"0\"],\"Picnic_Stowaway12\":[0],\"Tiki_Chief3\":[\"0\",\"3\"],\"Tiki_Chief4\":[\"0\",\"0\"],\"Egggulyte1\":[\"0\"],\"Egggulyte2\":[\"0\"],\"Glumlee1\":[0],\"Glumlee2\":[0],\"Glumlee3\":[194],\"Glumlee4\":[0],\"Obol_Altar1\":[0],\"Krunk1\":[0,0],\"Glumlee5\":[0],\"Krunk2\":[0,0,0],\"Krunk3\":[0,0,0],\"Papua_Piggea1\":[0],\"Papua_Piggea2\":[0],\"Papua_Piggea3\":[0,0,0],\"Giftmas_Blobulyte1\":[\"0\"],\"Papua_Piggea4\":[\"0\"],\"Giftmas_Blobulyte2\":[0,0],\"Centurion1\":[\"0\",\"69\"],\"Rocklyte1\":[0],\"Centurion2\":[0],\"Rocklyte2\":[0],\"Centurion3\":[\"0\"],\"Rocklyte3\":[\"0\"],\"Snouts1\":[0],\"Centurion4\":[\"0\",\"0\"],\"Snouts2\":[0],\"Lord_of_the_Hunt1\":[0,0,0],\"Centurion5\":[\"0\",\"0\",\"0\"],\"Snouts3\":[\"0\"],\"Lord_of_the_Hunt2\":[0,0],\"Lord_of_the_Hunt3\":[0,0],\"Lord_of_the_Hunt4\":[0,0],\"QuestNameFiller2\":[\"Starting amount (generally 0)\"],\"Lord_of_the_Hunt5\":[0,0],\"Coastiolyte1\":[\"0\"],\"Lord_of_the_Hunt6\":[0,0],\"Coastiolyte2\":[\"0\",\"0\"],\"Lord_of_the_Hunt7\":[0,0],\"Fishpaste971\":[0],\"Fishpaste972\":[\"0\"],\"Lord_of_the_Hunt8\":[0,0],\"Picnic_Stowaway1\":[0],\"Lord_of_the_Hunt9\":[0,0],\"Picnic_Stowaway2\":[0,0],\"Picnic_Stowaway3\":[10],\"Picnic_Stowaway4\":[0,0],\"Woodsman1\":[0],\"Picnic_Stowaway5\":[0,0,0],\"Woodsman2\":[0],\"Picnic_Stowaway6\":[0,0,0],\"Picnic_Stowaway7\":[\"0\",\"300\",\"1\"],\"Woodsman3\":[0],\"Woodsman4\":[0],\"Picnic_Stowaway8\":[0,0],\"Hoggindaz1\":[\"0\",180],\"Picnic_Stowaway9\":[0],\"Hoggindaz2\":[\"0\",\"0\"],\"Hoggindaz3\":[\"0\",\"0\",\"0\"],\"Hoggindaz4\":[\"0\",\"0\"],\"Hoggindaz5\":[\"0\"],\"Funguy1\":[0,0,0],\"Funguy2\":[92],\"Telescope1\":[\"0\"],\"Iceland_Irwin1\":[0],\"Hamish1\":[0],\"Town_Marble1\":[0],\"Funguy3\":[0],\"Scubidew1\":[0,0,0],\"Hamish2\":[0],\"TP_Pete1\":[\"0\",\"200\"],\"Funguy4\":[\"0\",\"0\"],\"Scubidew2\":[\"0\",\"121\"],\"Hamish3\":[0],\"TP_Pete2\":[0],\"Funguy5\":[0],\"Scubidew3\":[0],\"TP_Pete3\":[0],\"Dog_Bone1\":[0],\"Bushlyte1\":[0],\"Dog_Bone2\":[0],\"Carpetiem1\":[\"0\"],\"Bushlyte2\":[0],\"Carpetiem2\":[\"0\",\"1\"],\"Bushlyte3\":[0],\"Carpetiem3\":[\"0\"],\"Carpetiem4\":[\"0\"],\"Cowbo_Jones10\":[1,1],\"Scripticus2\":[5],\"Desert_Davey2\":[0,0,0],\"Cowbo_Jones11\":[\"0\"],\"Scripticus3\":[1,5],\"Cowbo_Jones12\":[\"0\"],\"Scripticus4\":[1],\"Loominadi1\":[0],\"Cowbo_Jones13\":[\"0\"],\"Scripticus5\":[41],\"Speccius1\":[0,0],\"Meel1\":[\"0\"],\"Loominadi2\":[\"0\"],\"Scripticus6\":[0],\"Speccius2\":[1],\"Meel2\":[0],\"Loominadi3\":[\"0\"],\"Cowbo_Jones14\":[\"0\",\"0\"],\"Scripticus7\":[1,1],\"Loominadi4\":[\"0\"],\"Cowbo_Jones15\":[0,0,0],\"Scripticus8\":[0],\"Scripticus9\":[0],\"Sprout1\":[0,0],\"Lonely_Hunter1\":[0,0],\"Sprout2\":[\"0\"],\"Lonely_Hunter2\":[\"0\"],\"Sprout3\":[0,0,0],\"Sprout4\":[0]}"
                     },
                     "Refinery": {
-                        "stringValue": "[[4,649.6177701950073,1493.617770195142,3263998.6177701456,3263998.6177701456,3263998.6177701456,3263998.6177701456,3263998.6177701456],[\"Blank\",\"Blank\",\"Blank\",\"Blank\",\"Blank\",\"Blank\",\"Blank\",\"Blank\"],[0,0,0,0,0,0,0,0],[5340,6,0,1,0],[1878,4,0,1,0],[8,3,0,0,0],[0,2,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0]]"
+                        "stringValue": "[[4,327.9727704524994,1975.972770452634,3264480.972770403,3264480.972770403,3264480.972770403,3264480.972770403,3264480.972770403],[\"Blank\",\"Blank\",\"Blank\",\"Blank\",\"Blank\",\"Blank\",\"Blank\",\"Blank\"],[0,0,0,0,0,0,0,0],[5350,6,0,1,0],[1878,4,0,1,0],[8,3,0,0,0],[0,2,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0],[0,1,0,0,0]]"
                     },
                     "RespTime_0": {
                         "doubleValue": 0
@@ -23406,7 +23406,7 @@
                         "stringValue": "[-1,-1,-1,-1,-1,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,4,0,-1,0,0,0,0,-1,-1,641,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,17402,17402,-1,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]"
                     },
                     "TaskZZ0": {
-                        "stringValue": "[[21578914,3137,31539.98944444413,0,0,1225,1,0,1],[1379754.10703208,948,2,3,81924.4390126796,425,0,0,0],[16841,588,39,10321673,102,10885,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0]]"
+                        "stringValue": "[[21579115,3137,31539.98944444413,0,0,1225,1,0,1],[1379754.10703208,948,2,3,81924.4390126796,425,0,0,0],[16841,588,39,10321673,102,10885,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0]]"
                     },
                     "TaskZZ1": {
                         "stringValue": "[[8,7,7,10,5,6,7,0,1],[10,5,6,5,10,7,7,0,0],[5,5,4,7,4,8,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0]]"
@@ -23424,13 +23424,13 @@
                         "stringValue": "[18,8,0,0,0,0,0,0]"
                     },
                     "TimeAway": {
-                        "stringValue": "{\"GlobalTime\":1625621392.287,\"Construction\":1625621391.287,\"Player\":1625621391.287,\"Printer\":1625619396.592,\"Cauldron\":1625621391.287,\"DailyRewards\":13596765.344766626,\"BookLib\":216794.3318929615,\"ShopRestock\":79987.65523385972,\"PostOfficeRefresh\":79988.46099996567,\"Forge\":1625621391.287}"
+                        "stringValue": "{\"GlobalTime\":1625621874.6420002,\"Construction\":1625621873.6420002,\"Player\":1625621873.6420002,\"Printer\":1625619396.592,\"Cauldron\":1625621873.6420002,\"DailyRewards\":13596765.699766884,\"BookLib\":217276.68689321898,\"ShopRestock\":79505.30023360223,\"PostOfficeRefresh\":79506.10599970818,\"Forge\":1625621873.6420002}"
                     },
                     "TotemInfo": {
                         "stringValue": "[[50,29,23,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0]]"
                     },
                     "Tower": {
-                        "stringValue": "[9,12,9,6,4,2,0,0,0,13,9,3,1,1,1,0,0,0,5,5,5,5,3,0,0,0,0,9,12,10,6,5,2,0,0,0,14,10,4,2,2,1,0,0,0,6,6,6,6,3,1,0,0,0,3,22,15,14,5,6,1,-1,39407.00652451594,42854.384693320884,21378.57251593651,0,0,54109.36957592446,0,462252.9002915196,0,54119.94874259116,887572.2966666864,0,0,0,0,0,0,0,54143.928187035555,54146.04402036896,0,0,0,0,0,0,142546.43822209252,0,0,0,0]"
+                        "stringValue": "[9,12,9,6,4,2,0,0,0,13,9,3,1,1,1,0,0,0,5,5,5,5,3,0,0,0,0,9,12,10,6,5,2,0,0,0,14,10,4,2,2,1,0,0,0,6,6,6,6,3,1,0,0,0,3,22,15,14,5,6,1,-1,39652.29772451604,43118.900104432,21508.761793714366,0,0,54446.959575924484,0,462590.490291519,0,54457.53874259118,887909.8866666858,0,0,0,0,0,0,0,54481.51818703558,54483.63402036898,0,0,0,0,0,0,142884.0282220919,0,0,0,0]"
                     },
                     "bun_a": {
                         "integerValue": "1"
@@ -23452,10 +23452,10 @@
                     }
                 },
                 "name": "projects/idlemmo/databases/(default)/documents/_data/4soLAI7ka9eEnuxazVyjZacxRd62",
-                "updateTime": "2021-07-07T01:31:12.978565Z"
+                "updateTime": "2021-07-07T01:39:19.462219Z"
             },
             "targetIds": [
-                6
+                4
             ]
         }
     }
